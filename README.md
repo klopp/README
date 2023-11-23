@@ -44,7 +44,7 @@
 
 #### genmon-cpu.sh
 
-Мониторит CPU. **bash**.
+Мониторит CPU. **Bash**.
 
 #### genmon-disks.sh
 
