@@ -8,7 +8,7 @@
 
 ## [PVS Studio + Eclipse](https://pvs-studio.com/en/blog/posts/0458/)
 
-Моя статья про интеграцию [PVS Studio](https://pvs-studio.com/) в [Eclipse CDT](https://www.eclipse.org/downloads/packages/).
+Моя статья про интеграцию [PVS Studio](https://pvs-studio.com/) в [Eclipse CDT](https://github.com/eclipse-cdt).
 
 ## [PicoC-Lib](https://github.com/klopp/PicoC-Lib)
 
@@ -20,7 +20,7 @@
 
 ## [eclipse-tools](https://github.com/klopp/eclipse-tools)
 
-Утилиты для [Eclipse](https://eclipseide.org/) (CTD, E-P-I-C). **Perl**.
+Утилиты для [Eclipse](https://eclipseide.org/) ([CDT](https://www.epic-ide.org/), [EPIC](https://www.epic-ide.org/)). **Perl**.
 
 ## [PERL5LIB](https://github.com/klopp/PERL5LIB)
 
@@ -52,7 +52,7 @@
 
 #### genmon-imap.pl
 
-Мониторит почтовые ящики IMAP (**Perl**).
+Мониторит почтовые ящики IMAP. **Perl**.
 
 ### remove-r.sh
 
@@ -69,5 +69,3 @@
 ### dir-mon.sh
 
 То же самое, но на **bash**.
-
-
