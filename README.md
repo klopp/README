@@ -28,7 +28,7 @@
 
 ## [linux-stuff](https://github.com/klopp/linux-stuff)
 
-Всякие полезности для Linux
+Всякие полезности для Linux. **Perl**, **Bash**.
 
 ### [tray-run](https://github.com/klopp/tray-run)
 
